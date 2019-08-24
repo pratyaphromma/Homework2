@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="email">อีเมล</string>
+    <string name="login">ลงชื่อเข้าใช้</string>
+    <string name="ltya">ลงชื่อเข้าใช้บัญชีของคุณ</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="Register">ยังไม่มีบัญชีใช้งาน?สมัครเลย</string>
+</resources>

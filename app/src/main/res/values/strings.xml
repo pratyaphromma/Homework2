@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="ltya">Login To Your Account</string>
+    <string name="Register">"Don't have an account?Register"</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+</resources>
